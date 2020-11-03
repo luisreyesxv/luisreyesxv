@@ -1,4 +1,4 @@
-<h1 align="center">Howdy 🤠, I'm Luis Reyes Bartolome</h1>
+<h1 align="center">Greetings 🦹🏽‍♂️, I'm Luis Reyes Bartolome</h1>
 <h3 align="center">Full Stack Software Engineer currently balancing making apps and playing D&D</h3>
 
 - 📝 I regulary write articles on [https://medium.com/@LuisReyesBartolome](https://medium.com/@LuisReyesBartolome)
