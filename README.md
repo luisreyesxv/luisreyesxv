@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1nAh-CLRbDjzaoCQ9Y7zxNsLANwwY9gVc/view?usp=sharing](https://drive.google.com/file/d/1nAh-CLRbDjzaoCQ9Y7zxNsLANwwY9gVc/view?usp=sharing)
 
-### Blogs posts
+# Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
