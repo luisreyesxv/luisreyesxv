@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+<h1 align="center">Greetings 🦹🏽‍♂️, I'm Luis Reyes Bartolome</h1>
+<h3 align="center">Full Stack Software Engineer currently balancing making apps and playing D&D</h3>
 
-You can use the [editor on GitHub](https://github.com/luisreyesxv/luisreyesxv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+- 📝 I regulary write articles on [https://medium.com/@LuisReyesBartolome](https://medium.com/@LuisReyesBartolome)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 📫 Reach me @ **luisreyesxvi@gmail.com**
 
-### Markdown
+- 📄 Know about my experiences [https://drive.google.com/file/d/1nAh-CLRbDjzaoCQ9Y7zxNsLANwwY9gVc/view?usp=sharing](https://drive.google.com/file/d/1nAh-CLRbDjzaoCQ9Y7zxNsLANwwY9gVc/view?usp=sharing)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Blogs posts
+<!-- BLOG-POST-LIST:START -->
+- [Using JavaScript ,Canvas and Atari VCS Trivia to Make a Basic HTML Game](https://medium.com/javascript-in-plain-english/a-quick-example-of-using-js-canvas-and-atari-vcs-trivia-to-make-a-basic-html-game-bdd52a41dd36?source=rss-71d798a52f7------2)
+- [A Reckless Example of Using Basic Meta-programming Concepts and How it Paid Off](https://medium.com/@LuisReyesBartolome/a-reckless-example-of-using-basic-meta-programming-concepts-and-how-it-paid-off-1e142ee9b5b7?source=rss-71d798a52f7------2)
+<!-- BLOG-POST-LIST:END -->
 
-```markdown
-Syntax highlighted code block
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in//luis-reyes-bartolome" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="/luis-reyes-bartolome" height="30" width="40" /></a>
+<a href="https://medium.com/@luisreyesbartolome" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@luisreyesbartolome" height="30" width="40" /></a>
+</p>
 
-# Header 1
-## Header 2
-### Header 3
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="40" height="40"/> </a> </p>
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/luisreyesxv/luisreyesxv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisreyesxv&show_icons=true&locale=en&layout=compact" alt="luisreyesxv" /></p>
