@@ -3,9 +3,11 @@
 
 - 📝 I regulary write articles on [https://medium.com/@LuisReyesBartolome](https://medium.com/@LuisReyesBartolome)
 
+- 🗂 Check out my Portfolio @ [https://luisreyesbartolome.com/](https://luisreyesbartolome.com/)
+
 - 📫 Reach me @ **luisreyesxvi@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1nAh-CLRbDjzaoCQ9Y7zxNsLANwwY9gVc/view?usp=sharing](https://drive.google.com/file/d/1nAh-CLRbDjzaoCQ9Y7zxNsLANwwY9gVc/view?usp=sharing)
+- 📄 Know about my experiences [https://luisreyesbartolome.com/LuisSoftwareEngineerResume.pdf](https://luisreyesbartolome.com/LuisSoftwareEngineerResume.pdf)
 
 # Blogs posts
 <!-- BLOG-POST-LIST:START -->
