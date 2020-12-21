@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in//luis-reyes-bartolome" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111465.svg" alt="/luis-reyes-bartolome" height="30" width="40" /></a>
-<a href="https://medium.com/@luisreyesbartolome" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111470.svg" alt="@luisreyesbartolome" height="30" width="40" /></a>
+<a href="https://luisreyesbartolome.medium.com/" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111470.svg" alt="@luisreyesbartolome" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
