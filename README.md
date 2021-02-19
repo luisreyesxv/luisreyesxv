@@ -14,7 +14,7 @@
 - [Useful Assets & Tools to Add to Your Next App](https://medium.com/@luisreyesbartolome/useful-assets-tools-to-add-to-your-next-app-175cb762817f?source=rss-71d798a52f7------2)
 - [Some Different Types of Primary Keys You Can Use for Your Database](https://medium.com/@luisreyesbartolome/some-different-types-of-primary-keys-you-can-use-for-your-database-8f686aa14221?source=rss-71d798a52f7------2)
 - [A Practical Example of Using URL Slugs for your Rails Parameters instead of Ids](https://medium.com/@luisreyesbartolome/a-practical-example-of-using-url-slugs-for-your-rails-parameters-instead-of-ids-3d6759f30125?source=rss-71d798a52f7------2)
-- [Using JavaScript ,Canvas and Atari VCS Trivia to Make a Basic HTML Game](https://medium.com/javascript-in-plain-english/a-quick-example-of-using-js-canvas-and-atari-vcs-trivia-to-make-a-basic-html-game-bdd52a41dd36?source=rss-71d798a52f7------2)
+- [Using JavaScript ,Canvas and Atari VCS Trivia to Make a Basic HTML Game](https://js.plainenglish.io/a-quick-example-of-using-js-canvas-and-atari-vcs-trivia-to-make-a-basic-html-game-bdd52a41dd36?source=rss-71d798a52f7------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
